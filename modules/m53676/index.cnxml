@@ -1,0 +1,57 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Presenting data on religious affiliation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m53676</md:content-id>
+  <md:title>Presenting data on religious affiliation</md:title>
+  <md:abstract>Having gathered data on the world's religions and their adherents, we now need a handy way to present and interpret it. This module shows you how.</md:abstract>
+  <md:uuid>56cce68d-c4f0-440e-8e92-88d27e1fa754</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1164117791339">While we bear in mind the conceptual and practical difficulties in gathering data on religions, let us now take a look at the global and local estimates of the number of people who self–identify with the major religious traditions of the world. These religions account for 98 per cent of the world's population and was gathered by <emphasis effect="italics">www.adherents.com</emphasis> from 34 000 statistical citations. The statistics for South Africa come from the 1999 census.</para>
+    <para id="import-auto-id1164116907123">The first pie chart shows the percentage of the global population who belong to the major religions of the world. It also gives us a good idea of the percentage of people who regard themselves as non-religious.</para>
+    <figure id="import-auto-id1164119165685">
+      <media id="import-auto-id1164120198118" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-c4d7.jpg" height="435" width="576"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1164119148034">The next figure shows the number of adherents of the major religious traditions of the world in a bar–chart. The information is thus the same as in the previous chart, but this time in number of people instead of percentage of the world population.</para>
+    <figure id="import-auto-id1164121225505">
+      <media id="import-auto-id1164114617773" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-fffa.jpg" height="435" width="576"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1164119121778">These charts show that Christianity is the major religion of the world with more than 2 billion adherents, or 33 per cent of the world population, identifying with it. This religion is however divided into a number of branches as set out below.</para>
+    <para id="import-auto-id1164118722028">A bar–chart of the worl'd religious traditions that splits up the branches of Christianity will look as follows:</para>
+    <figure id="import-auto-id1164118508705">
+      <media id="import-auto-id1164114666936" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics3-9c8a.jpg" height="435" width="576"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1164120128228">Amazing! "No religion" has suddenly become the single largest group! But wasn't Christianity the "winner" here? This shows that the way we conceptualise the question, the way we frame the question, determines the answer before we even start to gather data.</para>
+    <para id="eip-742">Yet another way to present data is to impose it on a map:</para><para id="eip-616"><figure id="chr_dist-f"><media id="chr-dist-m" alt="">
+<image mime-type="image/png" src="../../media/chr_dist.png"/></media>
+
+<caption>Distribution of Christians worldwide. © Wikimedia/TheGreenEditor CC BY-SA 3.0, 2014</caption></figure></para><para id="import-auto-id1164140719437">The second largest religion of the world is Islam with 225 of the world population or 130 million adherents. The major branches of Islam are the Sunni and the Shi'ite. The table below shows the estimated numbers of followers.</para>
+    <list id="import-auto-id1635561" list-type="bulleted"><item>Sunni - 940 000 000</item>
+      <item>Shi'ite - 120 000 000</item>
+    </list><para id="import-auto-id1164137916813">The third largest religion in the world is Hinduism and the table below shows the main branches in this tradition.</para>
+    <list id="import-auto-id1164129586491" list-type="bulleted"><item>Vaishnavites - 580 000 000</item>
+      <item>Shaivites - 220 000 000</item>
+      <item>Neo–and Reform Hindus - 22 000 000</item>
+    </list><para id="import-auto-id1164138043425">However, just because Christians make up 33% of the world's population does not mean that the same is true on a smaller scale. In your country, in your state or province, in your city or town, things could look very different. Let us take my country as an example. In South Africa (according to one source – the 1999 statistics) the main religious groups are:</para>
+    <list id="import-auto-id1164133057808" list-type="bulleted">
+      <item>54 % of South Africans are Christian,</item>
+      <item>12.9 % have no religion</item>
+      <item>21.6 % did not answer the question</item>
+      <item>11.4 % belong to faiths such as Islam, Hinduism and Judaism</item>
+    </list>
+    <para id="import-auto-id1164126121299">Another way of looking at the religious affiliation in South Africa is by looking at the larger religious groupings</para>
+    <figure id="import-auto-id1164132721244">
+      <media id="import-auto-id1164142116477" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics4-463b.jpg" height="435" width="576"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1164130529590">Does this mean that we now have the exact breakdown of religion in this particular country? No, these numbers still need to be approached with caution. Those 21.6% who did not answer the question are of particular concern. Are they actually non-religious, like the 12.9% who said they were that? Do they belong to obscure religions that were not on the list? Or was it something more subtle? The census was run on a household basis, not on the basis of one census form per individual. If there are people practicing two or three religions in your household, which one do you put down as your household's religion? (I generally put down my wife's tradition - I know who the spiritual one in the family is).</para>
+    <para id="import-auto-id1164140471166">Religious people like to trot out statistics. We all like to boast that our religion is "the largest" or "the most widespread" or "the fastest growing" religion in town. But I trust that this discussion has taught you to look beyond the bragging rights and enabled you to ask the hard questions. Who was counted? Who was not counted? Who was counted twice?</para></content>
+</document>

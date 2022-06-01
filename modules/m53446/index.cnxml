@@ -1,0 +1,48 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Religious and traditional calendars</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m53446</md:content-id>
+  <md:title>Religious and traditional calendars</md:title>
+  <md:abstract>This module offer a brief look at various calendar systems that were created by religious traditions or based on religious calendars.</md:abstract>
+  <md:uuid>4c087e0b-515c-4ab5-97a1-65167ebf60e6</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-id1170652241585">
+      <title>The Jewish calendar</title>
+      <para id="import-auto-id1170652121364">Judaism uses its own calendar to calculate the correct days for festivals, and the Jewish calendar is also the official calendar of Israel. It is a complicated system that tries to do justice to both the lunar and the solar systems, and its year 1 dates back to 3761 BCE, which according to Jewish tradition is the date of Creation (not all Jews take this literally, but even for those who do not, it has a symbolic importance).</para>
+      <para id="import-auto-id1170652149366">The Jewish calendar was established by Sanhedrin leader <emphasis effect="bold">Hillel</emphasis> around the year 359 CE. The Jewish day also does not start at midnight, but when the sun goes down. This feature can also be found in the Islamic calendar, which we will consider next.</para>
+    </section>
+    <section id="import-auto-id1170652137473">
+      <title>The Islamic Calendar</title>
+      <para id="import-auto-id1170652267420">The Islamic calendar starts at the moment of the Prophet Muhammad's emigration from Mecca to Yathrib (Medina) in the year 622 CE. It is a purely lunar calendar and about 11 days shorter than the solar year used in the Gregorian system. This means that the Islamic calendar will overtake the Gregorian one about 19 000 years from now! However, it is just as accurate in keeping up with the movements of the moon as the Gregorian calendar is in keeping up with the movements of the sun.</para>
+    </section>
+    <section id="import-auto-id1170652277275">
+      <title>The Baha'i Calendar</title>
+      <para id="import-auto-id1170652020813">The Baha'i Faith has created its own calendar as well. Uniquely, this calendar uses 19–day "months", which makes it one of the purest attempts to create a completely solar calendar. The Baha'i calendar takes no notice of the moon's motions at all.</para>
+      <para id="import-auto-id1170652731327">Its year of 19 "months" of 19 days only add up to 361 days, but this is solved by inserting special "intercalary" days (literally "between the calendars) at the end of the year.</para>
+      <note id="import-auto-id1170652044739" type="Note">Intercalary days were a feature of many ancient calendars. In the ancient Egyptian calendar, for example, these days were used to hold a feast to celebrate the end of the year. The basic problem is that the earth goes around the sun in just less than 365 and one–quarter days. That is a number that just does not divide easily. Most contemporary calendars solve the problem by adding a leap day every fourth year.</note>
+    </section>
+    <section id="import-auto-id1170652004164">
+      <title>The Chinese Calendar</title>
+      <para id="import-auto-id1170651930484">In China, the Gregorian system is used for official purposes, but there is also a traditional Chinese calendar that is used to calculate festival days. Unlike other calendars, the Chinese one does not start at year 1 and keep on counting forwards indefinitely. Instead, it uses recurring 60–year cycles. If we calculate back and translate this into the Gregorian calendar, we can see that the Chinese calendar starts in the year 2637 BCE. The 60–year cycles are broken up into five twelve–year cycles, with each year named after an animal. Most of 2004 was the Year of the Monkey, but the Year of the Monkey did not start on 1 January 2004! The Chinese New Year falls on a different date every Gregorian year.</para>
+      <para id="import-auto-id1170651925417">So, if someone was born in 2003, that would be the year of the sheep. Except if it was before 1 February 2003, in which case it would still be the year of the horse! The names of these years are bound up with Chinese astrology. Someone born in the year of the horse, for example, would be thought to have the strength and stamina of a horse.</para>
+      <para id="import-auto-id1170651905228">The Chinese would also refer to the reigns of emperors to indicate the passage of time, thus you would get references like, "... during the reign of Emperor Kao Tsu, in the year of the Pig …"</para>
+      <note id="import-auto-id1170651908620" type="Note">Tibetan Buddhists adopted the basic idea behind the Chinese calendar and developed their own calendar with 60–year cycles and 12–year animal cycles. They use a different set of animals.</note>
+    </section>
+    <section id="import-auto-id1170651885835">
+      <title>The Indian Civil Calendar</title>
+      <para id="import-auto-id1170651982056">In India, a number of traditional calendars used to exist. Only in 1957 did the Indian government impose a single system. When they looked at existing systems, they found no less than 30 Hindu, Buddhist and Jain calendars in common use! The official Indian system is not the same as the Gregorian, but Indian authorities are trying to keep the two running at the same rate, while still doing justice to the variety of Hindu calendars.</para>
+    </section>
+    <section id="import-auto-id1170651798355">
+      <title>Buddhist Calendars</title>
+      <para id="import-auto-id1170651781698">Theravada Buddhists start their calendar from the moment of the Buddha's enlightenment. But they do not agree in which year, or even in what month, this actually happened. There are therefore a number of Buddhist calendars. In most Buddhist areas, they simply refer to the months as First Month, Second Month and so on. But in Sri Lanka the months do have names.</para>
+      <note id="import-auto-id1170653412494" type="Note">You can go to Sri Lanka and celebrate Wesak (the main Buddhist festival, celebrating the birth, enlightenment and death of the Buddha) in Late April or early May, and then go to Thailand and have the whole celebration all over again a month later, in late May or early June!</note>
+      <para id="import-auto-id1170651536573">Mahayana Buddhists in places like Japan used to employ the Chinese calendar, but in recent years they have tended to adopt the Gregorian calendar and now use that to celebrate their festivals. Their Wesak festival falls in late October.</para>
+    </section>
+    <section id="import-auto-id1170651545277">
+      <title>African Calendars</title>
+      <para id="import-auto-id1170651620266">African societies also created their own calendars. For example, the Coptic Christians in Egypt and and Orthodox Christians in Ethiopia use two different calendar systems that are unique to those countries. Elsewhere in Africa, as well, careful note was kept of the passing of time and the coming of the seasons.</para>
+    </section>
+  </content>
+</document>

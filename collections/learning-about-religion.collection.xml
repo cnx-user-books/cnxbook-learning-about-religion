@@ -1,0 +1,289 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en-za">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11780</md:content-id>
+    <md:title>Learning about Religion</md:title>
+    <md:language>en-za</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>74b59824-e23c-445b-a9b2-331777ed4545</md:uuid>
+<md:slug>learning-about-religion</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m53453"/>
+    <col:subcollection>
+      <md:title>Introduction(s)</md:title>
+      <col:content>
+        <col:module document="m53425"/>
+        <col:module document="m46857"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Where are we going?</md:title>
+      <col:content>
+        <col:module document="m53421"/>
+        <col:module document="m53404"/>
+        <col:module document="m53418"/>
+        <col:module document="m53411"/>
+        <col:module document="m53366"/>
+        <col:module document="m53419"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>What is the date?</md:title>
+      <col:content>
+        <col:module document="m53422"/>
+        <col:module document="m53443"/>
+        <col:module document="m53444"/>
+        <col:module document="m53449"/>
+        <col:module document="m53446"/>
+        <col:module document="m53447"/>
+        <col:module document="m53448"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Where and when did it start?</md:title>
+      <col:content>
+        <col:module document="m53424"/>
+        <col:subcollection>
+          <md:title>Origins: Different stages of religion</md:title>
+          <col:content>
+            <col:module document="m53496"/>
+            <col:module document="m53505"/>
+            <col:module document="m53506"/>
+            <col:module document="m53507"/>
+            <col:module document="m53508"/>
+            <col:module document="m53509"/>
+            <col:module document="m53511"/>
+            <col:module document="m53513"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Origins: Geographical development</md:title>
+          <col:content>
+            <col:module document="m53497"/>
+            <col:module document="m53514"/>
+            <col:module document="m53517"/>
+            <col:module document="m53515"/>
+            <col:module document="m53519"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Case Study 1: How did it all begin in South Africa?</md:title>
+          <col:content>
+            <col:module document="m53520"/>
+            <col:subcollection>
+              <md:title>The religions of Africa</md:title>
+              <col:content>
+                <col:module document="m53570"/>
+                <col:module document="m53571"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>The religions of the Middle East</md:title>
+              <col:content>
+                <col:module document="m53572"/>
+                <col:module document="m53661"/>
+                <col:module document="m53667"/>
+                <col:module document="m53668"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>The religions of Asia</md:title>
+              <col:content>
+                <col:module document="m53671"/>
+                <col:module document="m23180"/>
+                <col:module document="m53670"/>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Case Study 2: Significant periods in the development of U.S. religion</md:title>
+          <col:content>
+            <col:module document="m54071"/>
+            <col:module document="m53500"/>
+            <col:module document="m54076"/>
+            <col:module document="m54078"/>
+            <col:module document="m53499"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Who started it?</md:title>
+      <col:content>
+        <col:module document="m53546"/>
+        <col:module document="m54508"/>
+        <col:module document="m54510"/>
+        <col:module document="m54516"/>
+        <col:module document="m54518"/>
+        <col:module document="m54519"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>How many are there?</md:title>
+      <col:content>
+        <col:module document="m53523"/>
+        <col:module document="m53672"/>
+        <col:module document="m53674"/>
+        <col:module document="m53676"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>How do they relate?</md:title>
+      <col:content>
+        <col:module document="m53527"/>
+        <col:module document="m53809"/>
+        <col:module document="m53810"/>
+        <col:module document="m53811"/>
+        <col:module document="m53812"/>
+        <col:module document="m53813"/>
+        <col:module document="m53814"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>How do we define religion?</md:title>
+      <col:content>
+        <col:module document="m53530"/>
+        <col:module document="m54020"/>
+        <col:module document="m54021"/>
+        <col:module document="m54022"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Deep thoughts</md:title>
+      <col:content>
+        <col:module document="m53534"/>
+        <col:module document="m54264"/>
+        <col:module document="m54468"/>
+        <col:module document="m54485"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The good life.</md:title>
+      <col:content>
+        <col:module document="m53536"/>
+        <col:module document="m54500"/>
+        <col:module document="m54501"/>
+        <col:module document="m54503"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Feeling it</md:title>
+      <col:content>
+        <col:module document="m53541"/>
+        <col:module document="m54506"/>
+        <col:module document="m54507"/>
+        <col:module document="m54523"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>How is it organised?</md:title>
+      <col:content>
+        <col:module document="m53552"/>
+        <col:module document="m54521"/>
+        <col:module document="m54520"/>
+        <col:module document="m54522"/>
+        <col:module document="m54524"/>
+        <col:module document="m54526"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Playing a role</md:title>
+      <col:content>
+        <col:module document="m53553"/>
+        <col:module document="m54527"/>
+        <col:module document="m54528"/>
+        <col:module document="m54529"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Living in harmony – Sources and the African experience</md:title>
+      <col:content>
+        <col:module document="m53555"/>
+        <col:module document="m54608"/>
+        <col:module document="m54611"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Living in harmony – The Semitic experience</md:title>
+      <col:content>
+        <col:module document="m53556"/>
+        <col:module document="m54613"/>
+        <col:module document="m54615"/>
+        <col:module document="m54616"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Living in harmony – the Eastern experience</md:title>
+      <col:content>
+        <col:module document="m53557"/>
+        <col:module document="m54618"/>
+        <col:module document="m54619"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Who is paying for all this?</md:title>
+      <col:content>
+        <col:module document="m53558"/>
+        <col:module document="m54620"/>
+        <col:module document="m54621"/>
+        <col:module document="m54622"/>
+        <col:module document="m54623"/>
+        <col:module document="m54625"/>
+        <col:module document="m54635"/>
+        <col:module document="m54639"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>How do we approach topical issues?</md:title>
+      <col:content>
+        <col:module document="m53554"/>
+        <col:module document="m54604"/>
+        <col:module document="m54605"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>How do we study religion?</md:title>
+      <col:content>
+        <col:module document="m53532"/>
+        <col:module document="m54486"/>
+        <col:module document="m54490"/>
+        <col:module document="m54493"/>
+        <col:module document="m54498"/>
+        <col:module document="m54494"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>How do we find out about it?</md:title>
+      <col:content>
+        <col:module document="m53566"/>
+        <col:module document="m54648"/>
+        <col:module document="m54653"/>
+        <col:module document="m54673"/>
+        <col:module document="m54676"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>How do we observe?</md:title>
+      <col:content>
+        <col:module document="m53559"/>
+        <col:module document="m54677"/>
+        <col:module document="m54678"/>
+        <col:module document="m54683"/>
+        <col:module document="m54684"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>How do we interview?</md:title>
+      <col:content>
+        <col:module document="m53562"/>
+        <col:module document="m54716"/>
+        <col:module document="m54710"/>
+        <col:module document="m54711"/>
+        <col:module document="m54714"/>
+        <col:module document="m54715"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m53503"/>
+  </col:content>
+</col:collection>

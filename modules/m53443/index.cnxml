@@ -1,0 +1,38 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Solar and lunar calendars</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m53443</md:content-id>
+  <md:title>Solar and lunar calendars</md:title>
+  <md:abstract>In this module we take a look at the difference between solar and lunar calendars.</md:abstract>
+  <md:uuid>0d71ac3b-3080-462a-b76d-47de502867e5</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="https://isotropic.org/date/" strength="2">Today's date</link>
+      <link url="http://isotropic.org/date/" strength="2">Convert a Date</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="import-auto-id3152654">From the earliest times, people have felt the need to know what date it was. There were practical reasons for this: Crops had to planted at the right time. But as religion became established, it became necessary to know the date for another reason: Religious festivals were to be held at certain times at not others. One certainly did not want to anger the gods by celebrating their festivals at the wrong time! Priests started to keep count of the days and to construct systems by which they could keep up.</para>
+    <para id="import-auto-id4923694">You will see that we use the abbreviations CE and BCE in this book. This will be explained a little later. For now, just remember that 2004 CE is the same as 2004 AD, and that 2004 BCE is the same as 2004 BC.</para>
+    <para id="import-auto-id3165216">How do you keep time in a world where clocks, wall calendars and so on have not been invented yet? You watch the movements of the sun and the moon. From such observations came almost all the calendar systems of the world, including those still in use today.</para>
+    <para id="import-auto-id3166571">The calendar most commonly in use around the world today is called the <emphasis effect="bold">Gregorian Calendar</emphasis>, and it uses the sun as its basic point of reference. This is why it is called as <emphasis effect="bold">solar</emphasis> calendar, from the Latin word for the sun, which is <emphasis effect="bold">Sol</emphasis>. But the Islamic calendar, as we shall see, is quite different. It uses the phases of the moon to calculate the date, and we call it a <emphasis effect="bold">lunar</emphasis> calendar, from the Latin <emphasis effect="bold">Luna</emphasis>, which means "moon".</para>
+    <para id="import-auto-id5112219">But there are very few purely solar or lunar systems. The solar Gregorian calendar still has months (the word "month" comes from "moon"), even if these no longer correspond to the actual waxing and waning of the moon. In fact, within Christianity a lunar system is used to calculate the date of Easter, which is why every year it falls on a different date.</para>
+    <para id="import-auto-id4695702">
+      <emphasis effect="bold">Fact File</emphasis>
+    </para>
+    <para id="import-auto-id5736417">Just to give you an idea of the many different calendars that have been used, let us take the date 19 June 2004. What would that be called in different calendars?</para>
+    <list id="eip-68"><item>Gregorian: Saturday, 19 June 2004 CE</item>
+<item>Mayan: Long count = 12.19.11.6.13; Tzolkin = 4 Ben; Haab = 16 Zotz (the Mayans used three different calendar systems for different purposes)</item>
+<item>Islamic: 1 Jumada 1425</item>
+<item>Hebrew: 30 Sivan 5764</item>
+<item>Julian: 6 June 2004</item>
+<item>Persian: 30 Xordad 1383</item>
+<item>Ethiopic: 12 Sane 1996</item>
+<item>Coptic: 12 Baunah 1720</item>
+<item>Chinese: Cycle 78, year 21 (Jia–Shen), month 5 (Geng–Wu), day 2 (Ji–Si)</item></list><para id="eip-707">Calculations courtesy of http://isotropic.org/uw//date/ and see also http://www.calendarhome.com/converter/. Why not go to one of these web sites and type in the day of your birth?</para></content>
+</document>

@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Julian and Gregorian calendars</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m53444</md:content-id>
+  <md:title>The Julian and Gregorian calendars</md:title>
+  <md:abstract>This module investigates the origins of the Julian and Gregorian calendar systems.</md:abstract>
+  <md:uuid>ba5b367c-705f-442c-8871-c915348a8491</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="https://en.wikipedia.org/wiki/Julian_calendar" strength="2">The Julian Calendar</link>
+      <link url="https://en.wikipedia.org/wiki/Gregorian_calendar" strength="2">The Gregorian Calendar</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="import-auto-id1169145998261">The Gregorian calendar system is sometimes called the "Christian calendar", because it starts counting the years from the birth of Christ. But its origins are much more complicated. We can trace it back to the <emphasis effect="bold">Julian calendar</emphasis>, which was a reform of an old Roman calendar system by <emphasis effect="bold">Julius Caesar</emphasis>. </para>
+    <note id="import-auto-id1169154665308" type="Note">More likely it was developed by mathematicians and astronomers working for Julius Caesar</note>
+    <para id="import-auto-id1169143582050">Of course, Julius Caesar lived before Christ, so he could not really use that as his starting point. Instead, he counted the years since the founding of the city of Rome in the year 753 BCE. Only around the sixth century did the practice of dating time from the birth of Christ start to become common, and counting backwards from that point (the years BCE) did not really catch on until the seventeenth century.</para>
+    <para id="import-auto-id1169143132386">Every calendar has a starting point, and the years before that starting point count backwards! The Jewish philosopher Philo of Alexandria was born in 15 BCE. In what year would he be celebrating his twelfth birthday? 3BCE</para>
+    <para id="import-auto-id7225855">You know how the birth and death dates of a person are indicated? You will read in history books about Mr BB Brown (1910–1969), so Mr Brown lived for 59 years. Let's return to Philo. He was born in 15 BCE and died 65 years later. How would you write his name together with those two dates? That would be Philo (15 BCE-50 CE)</para>
+    <note id="import-auto-id1169155898637" type="Note">The date of Christ's birth was first calculated in the year 527 CE by a monk called Dionysius Exiguus, whose Latin name means "Dennis the Short". Unfortunately, he made some errors, and most biblical scholars today agree that Jesus was actually born somewhere around the year 4 BCE or even a few years earlier.</note>
+    <para id="import-auto-id1169151550325">The Julian calendar worked well for a long time, but every 128 years, it gained one day, and by the 1580s the calendar was 10 days ahead of the real time. In 1582, <emphasis effect="bold">Pope Gregory XII</emphasis> therefore instituted calendar reform by simply dropping 10 days from the calendar!</para>
+    <para id="import-auto-id1169145084377">A lot of people were furious with Pope Gregory. They believed that by changing the calendar, he had shortened their lives by ten days!</para>
+    <para id="import-auto-id1169147100825">He ensured that the error should not happen again by making subtle changes in the number of leap years. Pope Gregory's system has been adjusted since then, but it is basically the system still in use today and is called the <emphasis effect="bold">Gregorian calendar system</emphasis> in his honour.</para>
+    <note id="import-auto-id1169145029674" type="Note">Today, we keep time with atomic clocks that are so accurate that scientists occasionally put in a "leap second" to keep other clocks reliable. There are special programs you can download to synchronise your own computer with these atomic clocks across the Internet. Modern operating systems even have such programs built in.</note>
+    <para id="import-auto-id8396882">The Orthodox Church continues to this day to use the Julian calendar to calculate the dates for its festivals. The Orthodox Easter and Christmas holidays therefore fall on different days than those celebrated by Catholic and Protestant Christians.</para>
+    <note id="import-auto-id1169151763401" type="Note">Russia and Greece were the last European countries to adopt the Gregorian system in the early twentieth century.</note>
+  </content>
+</document>

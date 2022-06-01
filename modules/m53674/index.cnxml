@@ -1,0 +1,21 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Data sources for religious statistics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m53674</md:content-id>
+  <md:title>Data sources for religious statistics</md:title>
+  <md:abstract>Where do all those magical numbers in statistical reports about religion come from? Do we just make them up?</md:abstract>
+  <md:uuid>5d1bfccf-e4fe-4dc0-810c-797881ecf288</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1171196424423">There are a number of sources that are generally used for statistical data on religions and religious affiliation.</para>
+    <list id="import-auto-id1171184828204" list-type="bulleted">
+      <item><emphasis effect="bold">Organisational reporting:</emphasis> Religious organisations have different ways of keeping their own records. Some count as members only those who are actively involved in church (or temple, mosque or synagogue) activities. Others count all who were ever involved with the organisation even if they are no longer members, while some churches will count all who were baptised as babies even if they have subsequently left and joined other groups.</item>
+      <item><emphasis effect="bold">Census records:</emphasis> Many countries conduct a comprehensive census from time to time and often religious affiliation is included. Experience with the South African data have however shown how unreliable such data can be. In the recent South African census the question was not compulsory so not everyone answered it and we now have a category "unstated". Also, according to the 1999 census there were more than 8000 black Buddhists in South Africa, but anyone with an interest in Buddhism would have been able to tell you that this was completely impossible – which casts a shadow over other statistics as well.</item>
+      <item><emphasis effect="bold">Polls and surveys:</emphasis> When only a sample of the population are polled in order to determine religious affiliation one can also expect inaccuracies. The sample will have to be quite large and will have to cover large geographical areas in order to be of any use. Information on minority religions will not be accurate with this method.</item>
+      <item><emphasis effect="bold">Estimates based on indirect data:</emphasis> Indirect data will include things such as circulation figures for magazines in the case of something such as New Age and neo–pagan groups, and size of ethnic group in the case of tribal religions such as for instance the Yoruba of Nigeria.</item>
+      <item><emphasis effect="bold">Field work:</emphasis> When data is needed about some small scale or secretive groups, field work which involves interviews and participant observation at key activities will give an estimate of the numbers involved in the groups.</item>
+    </list>
+    <para id="import-auto-id1171196910811">Imagine a person who was baptised in the Roman Catholic tradition, attended a Transcendental Meditation (TM) course as a teenager, subscribes to a New Age–type magazine, and eventually joins a Buddhist group. It is entirely possible that this one person will be included in the statistics of adherents of four different groups. Do not be surprised if the numbers for various religions in a country adds up to more than 100%.</para>
+  </content>
+</document>

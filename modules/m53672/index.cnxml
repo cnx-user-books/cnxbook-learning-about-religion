@@ -1,0 +1,49 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>An example</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m53672</md:content-id>
+  <md:title>An example</md:title>
+  <md:abstract>Statistics on religion are notoriously inaccurate. Let us consider an example.</md:abstract>
+  <md:uuid>094bdc1e-45f4-463f-9b0f-f6fbae0f0309</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1167313011195"> It is often said that you can prove anything with statistics. And this seems to be true. Let us look at a few examples to illustrate our point. Say for instance we wanted to know what the religious composition of South Africa was. A quick search on the Internet and one book gave me the following results (they will probably be different  by the time you read this, but we are trying to establish a principle here):</para>
+    <para id="import-auto-id1167325228310">
+      <emphasis effect="italics">http://www.geocities.com/TheTropics/8240/stats.htm</emphasis>
+    </para>
+    <list id="import-auto-id1167315089308" list-type="bulleted">
+      <item>Christian 72 %</item>
+      <item>Hindu 2 %</item>
+      <item>Traditional religion 20 %,</item>
+      <item>Secular 5 %,</item>
+      <item>Muslim 1 %</item>
+    </list>
+    <para id="import-auto-id1167312388321">
+      <emphasis effect="italics">http://www.phrasebase.com/countries/South%20Africa.html</emphasis>
+    </para>
+    <list id="import-auto-id1167313509242" list-type="bulleted">
+      <item>Christian 68 %</item>
+      <item>Muslim 2 %,</item>
+      <item>Hindu 1.5 %,</item>
+      <item>Indigenous beliefs and animist 28.5 %</item>
+    </list>
+    <para id="import-auto-id1167308387133">
+      <emphasis effect="italics">http://www.southafrica.net/index.cfm?SitePageID=355</emphasis>
+    </para>
+    <list id="import-auto-id1167318727966" list-type="bulleted">
+      <item>Christian – 80 %</item>
+      <item>Other major religious groups are the Hindus, Muslims and Jews.</item>
+      <item>A "minority" regard themselves as traditionalists or of no specific religious affiliation.</item>
+    </list>
+    <para id="import-auto-id1167308488535">
+      <emphasis effect="italics">South African Christian Handbook (1999–2000)</emphasis>
+    </para>
+    <list id="import-auto-id1167320352716" list-type="bulleted">
+      <item>Christian 54 %</item>
+      <item>Other faiths 11.4 %</item>
+      <item>No religion 12.9 %</item>
+      <item>Not stated 21.6 %</item>
+    </list>
+    <para id="import-auto-id1167318629214">When we look at the above statistics from four different sources, we are not much the wiser. This, however, illustrates how difficult it is to get accurate statistics about religion (and for that matter about any phenomenon). Statistics should never be swallowed whole! One should always look carefully at the criteria statisticians used to obtain their data. If the manner in which the data was gathered is not reliable then the results should be discarded.</para></content>
+</document>
