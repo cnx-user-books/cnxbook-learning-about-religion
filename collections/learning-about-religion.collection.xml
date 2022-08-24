@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en-za">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en-za" authors="Michel Clasquin-Johnson">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11780</md:content-id>
     <md:title>Learning about Religion</md:title>
     <md:language>en-za</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>74b59824-e23c-445b-a9b2-331777ed4545</md:uuid>
-<md:slug>learning-about-religion</md:slug>
-</metadata>
+    <md:slug>learning-about-religion</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m53453"/>
     <col:subcollection>
@@ -197,7 +198,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Living in harmony – Sources and the African experience</md:title>
+      <md:title>Living in harmony &#x2013; Sources and the African experience</md:title>
       <col:content>
         <col:module document="m53555"/>
         <col:module document="m54608"/>
@@ -205,7 +206,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Living in harmony – The Semitic experience</md:title>
+      <md:title>Living in harmony &#x2013; The Semitic experience</md:title>
       <col:content>
         <col:module document="m53556"/>
         <col:module document="m54613"/>
@@ -214,7 +215,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Living in harmony – the Eastern experience</md:title>
+      <md:title>Living in harmony &#x2013; the Eastern experience</md:title>
       <col:content>
         <col:module document="m53557"/>
         <col:module document="m54618"/>
